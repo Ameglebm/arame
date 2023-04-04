@@ -5,8 +5,8 @@ import random
 pygame.init()
 
 # Definindo as dimensões da tela
-SCREEN_WIDTH = 500
-SCREEN_HEIGHT = 500
+SCREEN_WIDTH = 1000
+SCREEN_HEIGHT = 1000
 
 # Definindo as cores
 BLACK = (0, 0, 0)
@@ -14,8 +14,8 @@ WHITE = (255, 255, 255)
 RED = (255, 0, 0)
 
 # Definindo a velocidade do jogador e do inimigo
-PLAYER_SPEED = 5
-ENEMY_SPEED = 3
+PLAYER_SPEED = 9
+ENEMY_SPEED = 5
 
 # Definindo o tamanho do jogador e do inimigo
 PLAYER_SIZE = 25
